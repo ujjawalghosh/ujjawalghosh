@@ -10,9 +10,12 @@
 ## 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjawal-ghosh)  
 [![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:ujjawalghosh@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)](https://ujjawalghosh.github.io)  
+
 
 ## 🧰 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,figma" />
+</p>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
